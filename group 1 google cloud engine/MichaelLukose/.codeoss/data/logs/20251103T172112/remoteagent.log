@@ -1,0 +1,11 @@
+2025-11-03 17:21:12.774 [info] 
+
+
+
+
+2025-11-03 17:21:12.789 [info] Extension host agent started.
+2025-11-03 17:21:12.814 [info] Started initializing default profile extensions in extensions installation folder. file:///home/chrismuchemi77/.codeoss/extensions
+2025-11-03 17:21:12.827 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/chrismuchemi77/.codeoss/extensions
+2025-11-03 17:21:24.233 [info] [127.0.0.1][457cc8d0][ManagementConnection] New connection established.
+2025-11-03 17:21:24.413 [info] [127.0.0.1][a9c83591][ExtensionHostConnection] New connection established.
+2025-11-03 17:21:26.427 [info] [127.0.0.1][a9c83591][ExtensionHostConnection] <1253> Launched Extension Host Process.

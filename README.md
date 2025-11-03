@@ -1,1 +1,1 @@
-# Cloud-computing-Group-1
+The project contains files from the Google App Engine Group assignment
